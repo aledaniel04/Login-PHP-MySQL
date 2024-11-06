@@ -1,26 +1,3 @@
-<?php
-    //$nombre = "alessandro";
-    //$apellido = "hidalgo";
-    //$edad = 23;
-    //$hobbit = "jugar futbol";
-    //$equipofav = "real madrid";
-    //$correo = "alessandro@gmail.com";
-    //$clave = "123";
-    //$segundonombre = "daniel";
-    //$apellido2 = "gutierrez";
-    //$jugador ="mbappe";
-    //echo "$nombre <br>";
-    //echo "$apellido <br>";
-    //echo "$edad <br>";
-    //echo "$hobbit <br>";
-    //echo "$equipofav <br>";
-    //echo "$correo <br>";
-    //echo "$clave <br>";
-    //echo "$segundonombre <br>";
-    //echo "$apellido2 <br>";
-    //echo "$jugador <br>";
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
